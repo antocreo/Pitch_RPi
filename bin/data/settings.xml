@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings>
+<sequence>8</sequence>
+<leftButton>1</leftButton>
+<rightButton>0</rightButton>
+<playButton> </playButton>
+<playAgainButton>.</playAgainButton>
+</settings>
+
+<!-- <![CDATA[ ]]> -->
